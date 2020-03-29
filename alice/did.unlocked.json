@@ -6,6 +6,7 @@
       "id": "did:web:did.actor:alice#z6MkrmNwty5ajKtFqc1U48oL2MMLjWjartwc5sf2AihZwXDN",
       "controller": "did:web:did.actor:alice",
       "type": "Ed25519VerificationKey2018",
+      "privateKeyBase58": "4KncQkZ7vwMHqfbHTAPa9jqkXZb4bE4c2LG2ii4MEPieqS7KJR614EpnGfBquaEbE9w5kCQdxeiBJWM2h6eG1TUY",
       "publicKeyBase58": "DK7uJiq9PnPnj7AmNZqVBFoLuwTjT1hFPrk6LSjZ2JRz"
     }
   ],
@@ -26,6 +27,7 @@
       "id": "did:web:did.actor:alice#zC8GybikEfyNaausDA4mkT4egP7SNLx2T1d1kujLQbcP6h",
       "type": "X25519KeyAgreementKey2019",
       "controller": "did:web:did.actor:alice",
+      "privateKeyBase58": "2dwqYJna7pz2wZZvdp4M8LkAhUKHkhTcMZU8FARCQBCG",
       "publicKeyBase58": "CaSHXEvLKS6SfN9aBfkVGBpp15jSnaHazqHgLHp8KZ3Y"
     }
   ]

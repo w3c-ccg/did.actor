@@ -1,4 +1,3 @@
-
 #### [View on GitHub](https://github.com/transmute-industries/did.actor/alice)
 
 # Alice, did:web:did.actor:alice
@@ -10,4 +9,8 @@
 Alice is a 27 year old woman living in New York City.
 Alice works at Fancy Tech Co, an AI and Blockchain consultancy serving fortune 500 companies in the tri state area.
 Alice mostly works from home, using Zoom and WebEx for meetings with clients.
-Alice loves roller skating, and making Lasagna. 
+Alice loves roller skating, and making Lasagna.
+
+## [DID Document](./did.json)
+
+## [DID Document Keys](./did.unlocked.json)
