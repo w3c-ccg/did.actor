@@ -3,7 +3,7 @@
 
 # Alice
 
-<img src="./profile.jpg" alt="profile>
+<img src="./profile.jpg" alt="profile" />
 
 ## Bio
 
