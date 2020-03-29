@@ -2,9 +2,8 @@
 
 User Experience and Development Personas for Decentralized Identifiers and Verifiable Credentials.
 
-### [Alice](./alice)
-### [Bob](./bob)
-
+### [Alice: did:web:did.actor:alice](./alice)
+### [Bob: did:web:did.actor:bob](./bob)
 
 #### Motivation
 
@@ -19,4 +18,4 @@ Note that this demo uses experimental `did:web` functionality not currently supp
 
 See:
 
-- https://github.com/decentralized-identity/web-did-resolver/issues/32
+- [web-did-resolver/issues/32](https://github.com/decentralized-identity/web-did-resolver/issues/32)
