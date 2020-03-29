@@ -7,4 +7,6 @@
 
 ## Bio
 
-Alice is a 34 year old woman working as a data scientist for example.com. She has just discovered decentralized identifiers, and is exploring how they can be used in her industry.
+Alice is a 27 year old woman working as a data scientist for example.com. 
+
+She has just discovered decentralized identifiers, and is exploring how they can be used in her industry.
