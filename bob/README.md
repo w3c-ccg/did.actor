@@ -1,7 +1,7 @@
 
 #### [View on GitHub](https://github.com/transmute-industries/did.actor/bob)
 
-# Bob: did:web:did.actor:bob
+# Bob, did:web:did.actor:bob
 
 <img src="./profile.jpg" alt="profile" width="500"/>
 

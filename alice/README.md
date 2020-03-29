@@ -1,7 +1,7 @@
 
 #### [View on GitHub](https://github.com/transmute-industries/did.actor/alice)
 
-# Alice: did:web:did.actor:alice
+# Alice, did:web:did.actor:alice
 
 <img src="./profile.jpg" alt="profile" width="500"/>
 

@@ -2,8 +2,8 @@
 
 User Experience and Development Personas for Decentralized Identifiers and Verifiable Credentials.
 
-### [Alice: did:web:did.actor:alice](./alice)
-### [Bob: did:web:did.actor:bob](./bob)
+### [Alice, did:web:did.actor:alice](./alice)
+### [Bob, did:web:did.actor:bob](./bob)
 
 #### Motivation
 
