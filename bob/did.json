@@ -10,10 +10,5 @@
         "controller": "",
         "publicKeyBase58": "DqS5F3GVe3rCxucgi4JBNagjv4dKoHc8TDLDw9kR58Pz"
       }
-    ],
-    "service": [{
-        "id":"#profile-image",
-        "type": "ProfileImage",
-        "serviceEndpoint": "https://did.actor/bob/profile.jpg"
-    }]
+    ]
   }
