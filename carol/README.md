@@ -6,7 +6,7 @@
 
 ## Bio
 
-Carol is a 40 year old woman working for a healthcare company in Portland Maine.
+Carol is a 67 year old woman working for a healthcare company in Portland Maine.
 
 ## [DID Document](./did.json)
 
