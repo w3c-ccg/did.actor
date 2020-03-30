@@ -1,4 +1,4 @@
-#### [View on GitHub](https://github.com/transmute-industries/did.actor/bob)
+#### [View on GitHub](https://github.com/transmute-industries/did.actor/tree/master/carol)
 
 # Carol, did:web:did.actor:carol
 

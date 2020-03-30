@@ -1,4 +1,4 @@
-#### [View on GitHub](https://github.com/transmute-industries/did.actor/alice)
+#### [View on GitHub](https://github.com/transmute-industries/did.actor/tree/master/alice)
 
 # Alice, did:web:did.actor:alice
 
