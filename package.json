@@ -1,0 +1,29 @@
+{
+  "name": "did.actor",
+  "version": "1.0.0",
+  "description": "User Experience and Development Personas for Decentralized Identifiers and Verifiable Credentials.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transmute-industries/did.actor.git"
+  },
+  "author": "Orie Steele",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/transmute-industries/did.actor/issues"
+  },
+  "homepage": "https://github.com/transmute-industries/did.actor#readme",
+  "dependencies": {
+    "crypto-ld": "^3.7.0",
+    "did-method-key": "^0.5.0",
+    "jsonld-signatures": "^5.1.0",
+    "vc-js": "^0.6.2",
+    "vc-revocation-list": "^1.0.0"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
