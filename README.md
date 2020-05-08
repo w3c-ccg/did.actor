@@ -4,7 +4,11 @@ User Experience and Development Personas for Decentralized Identifiers and Verif
 
 ### [Alice, did:web:did.actor:alice](./alice)
 
+Example of a [revocation list maintained by alice](https://did.actor/alice/credentials/status/3.json)
+
 ### [Bob, did:web:did.actor:bob](./bob)
+
+Example of a [credential issued by alice to bob](https://did.actor/bob/credentials/3732.json)
 
 ### [Carol, did:web:did.actor:carol](./carol)
 
