@@ -21,5 +21,9 @@
       "publicKeyBase58": "sexPhd6pkmTetV9QBYzYkG9AmL7q7HvLzs7VjFFozjm"
     }
   ],
-  "assertionMethod": ["#z6MkpzW2izkFjNwMBwwvKqmELaQcH8t54QL5xmBdJg9Xh1y4"]
+  "assertionMethod": ["#z6MkpzW2izkFjNwMBwwvKqmELaQcH8t54QL5xmBdJg9Xh1y4"],
+  "service": [{
+    "id":"#github",
+    "serviceEndpoint": "https://github.com/"
+  }]
 }
