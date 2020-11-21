@@ -1,4 +1,4 @@
-#### [View on GitHub](https://github.com/transmute-industries/did.actor/tree/master/bob)
+#### [View on GitHub](https://github.com/w3c-ccg/did.actor/tree/master/bob)
 
 # Bob, did:web:did.actor:bob
 
