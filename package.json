@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/transmute-industries/did.actor.git"
+    "url": "git+https://github.com/w3c-ccg/did.actor.git"
   },
   "author": "Orie Steele",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/transmute-industries/did.actor/issues"
+    "url": "https://github.com/w3c-ccg/did.actor/issues"
   },
-  "homepage": "https://github.com/transmute-industries/did.actor#readme",
+  "homepage": "https://github.com/w3c-ccg/did.actor#readme",
   "dependencies": {
     "crypto-ld": "^3.7.0",
     "did-method-key": "^0.5.0",
