@@ -12,6 +12,8 @@ Example of a [credential issued by alice to bob](https://did.actor/bob/credentia
 
 ### [Carol, did:web:did.actor:carol](./carol)
 
+### [Mike, did:web:did.actor:mike](./mike)
+
 #### Motivation
 
 It's often desirable to have Test DIDs that are readable, and that might have some additional context that is useful to lean on for development. By using github and did:web, we can provide such dids and everything needed to support them.
