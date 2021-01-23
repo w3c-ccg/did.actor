@@ -4,12 +4,14 @@
     {
       "@base": "did:web:did.actor:mike",
       "rating": "https://schema.org/Rating",
-      "publicAccess": "https://schema.org/publicAccess"
+      "publicAccess": "https://schema.org/publicAccess",
+      "additionalType": "https://schema.org/additionalType"
     }
   ],
   "id": "did:web:did.actor:mike",
   "rating": 4.5,
   "publicAccess": true,
+  "additionalType": null,
   "verificationMethod": [
     {
       "id": "#g1",
