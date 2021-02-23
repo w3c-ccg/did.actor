@@ -1,0 +1,18 @@
+{
+  "@context": ["https://www.w3.org/ns/did/v1"],
+  "id": "did:web:did.actor:supply-chain:manufacturer:stacy",
+  "verificationMethod": [
+    {
+      "id": "#primary-signing-key",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:did.actor:supply-chain:manufacturer:stacy",
+      "publicKeyJwk": {
+        "crv": "Ed25519",
+        "kty": "OKP",
+        "x": "9BHXaw6LHTImtqw_tEa_G8wiW4pOcGWcxPKLAFnVzSY"
+      }
+    }
+  ],
+  "authentication": ["#primary-signing-key"],
+  "assertionMethod": ["#primary-signing-key"]
+}
