@@ -1,0 +1,18 @@
+{
+  "@context": ["https://www.w3.org/ns/did/v1"],
+  "id": "did:web:did.actor:supply-chain:customs:ravi",
+  "verificationMethod": [
+    {
+      "id": "#primary-signing-key",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:did.actor:supply-chain:customs:ravi",
+      "publicKeyJwk": {
+        "crv": "Ed25519",
+        "kty": "OKP",
+        "x": "fT4bSQza27xo_aH2R4wvS09fyrf9e3zLQpzCuiVFDmo"
+      }
+    }
+  ],
+  "authentication": ["#primary-signing-key"],
+  "assertionMethod": ["#primary-signing-key"]
+}

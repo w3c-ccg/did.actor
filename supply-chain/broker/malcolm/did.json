@@ -1,0 +1,18 @@
+{
+  "@context": ["https://www.w3.org/ns/did/v1"],
+  "id": "did:web:did.actor:supply-chain:broker:malcolm",
+  "verificationMethod": [
+    {
+      "id": "#primary-signing-key",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:did.actor:supply-chain:broker:malcolm",
+      "publicKeyJwk": {
+        "crv": "Ed25519",
+        "x": "x409B8kT41DgMr79pJH7irqUUaYwqYsL4EAPRRwxcSs",
+        "kty": "OKP"
+      }
+    }
+  ],
+  "authentication": ["#primary-signing-key"],
+  "assertionMethod": ["#primary-signing-key"]
+}

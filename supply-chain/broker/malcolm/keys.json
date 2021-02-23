@@ -1,0 +1,16 @@
+{
+  "id": "did:web:did.actor:supply-chain:broker:malcolm#primary-signing-key",
+  "type": "JsonWebKey2020",
+  "controller": "did:web:did.actor:supply-chain:broker:malcolm",
+  "publicKeyJwk": {
+    "crv": "Ed25519",
+    "x": "x409B8kT41DgMr79pJH7irqUUaYwqYsL4EAPRRwxcSs",
+    "kty": "OKP"
+  },
+  "privateKeyJwk": {
+    "crv": "Ed25519",
+    "d": "9vCcDZlWg-0T-AYL5Rpw7NoTGx_Ftfj9fUvQMctHw7I",
+    "x": "x409B8kT41DgMr79pJH7irqUUaYwqYsL4EAPRRwxcSs",
+    "kty": "OKP"
+  }
+}
