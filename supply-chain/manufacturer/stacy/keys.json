@@ -5,12 +5,12 @@
   "publicKeyJwk": {
     "crv": "Ed25519",
     "kty": "OKP",
-    "x": "9BHXaw6LHTImtqw_tEa_G8wiW4pOcGWcxPKLAFnVzSY"
+    "x": "_iTzEVg-P9LxvVPL_V9wAyOFqiZGIdJFZwXa3g4YWf0"
   },
   "privateKeyJwk": {
     "crv": "Ed25519",
     "kty": "OKP",
-    "d": "4oPzRozKe_hEGE4s1W7BlT5zjZCbfHlbMzIP8lY2aRc",
-    "x": "9BHXaw6LHTImtqw_tEa_G8wiW4pOcGWcxPKLAFnVzSY"
+    "d": "sPFJhIZGw77B2a3K-F2HV5XohtFo_ORkj6VjlzDzCuU",
+    "x": "_iTzEVg-P9LxvVPL_V9wAyOFqiZGIdJFZwXa3g4YWf0"
   }
 }

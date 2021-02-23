@@ -8,8 +8,8 @@
       "controller": "did:web:did.actor:supply-chain:broker:malcolm",
       "publicKeyJwk": {
         "crv": "Ed25519",
-        "x": "x409B8kT41DgMr79pJH7irqUUaYwqYsL4EAPRRwxcSs",
-        "kty": "OKP"
+        "kty": "OKP",
+        "x": "d-DwLmqCtGN7P9-HISxvoHNSekSvSHD1VBvOvcq1zCg"
       }
     }
   ],
