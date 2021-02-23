@@ -1,7 +1,7 @@
 {
-  "id": "did:web:did.actor:supply-chain:customs:ravi#primary-signing-key",
+  "id": "did:web:did.actor:supply-chain:customs:david#primary-signing-key",
   "type": "JsonWebKey2020",
-  "controller": "did:web:did.actor:supply-chain:customs:ravi",
+  "controller": "did:web:did.actor:supply-chain:customs:david",
   "publicKeyJwk": {
     "crv": "Ed25519",
     "kty": "OKP",

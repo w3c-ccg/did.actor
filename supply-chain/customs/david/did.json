@@ -1,11 +1,11 @@
 {
   "@context": ["https://www.w3.org/ns/did/v1"],
-  "id": "did:web:did.actor:supply-chain:customs:ravi",
+  "id": "did:web:did.actor:supply-chain:customs:david",
   "verificationMethod": [
     {
       "id": "#primary-signing-key",
       "type": "JsonWebKey2020",
-      "controller": "did:web:did.actor:supply-chain:customs:ravi",
+      "controller": "did:web:did.actor:supply-chain:customs:david",
       "publicKeyJwk": {
         "crv": "Ed25519",
         "kty": "OKP",
