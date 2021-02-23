@@ -1,6 +1,6 @@
 ### Steel Import Scenario
 
-[Stacy Slater](./manufacturer/stacy) certifies the mill test report for Steel Inc's `ASTM A615 Rebar`.
+[Stacy Slater](./manufacturer/stacy) certifies the mill test report for Steel Inc's `ASTM A615 Grade 60 Rebar`.
 
 [Stacy Slater](./manufacturer/stacy) presents the CMTR credential to [yuki](./carrier/yuki).
 
