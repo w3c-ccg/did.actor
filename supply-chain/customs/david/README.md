@@ -2,7 +2,7 @@
 
 # David
 
-[did:web:did.actor:supply-chain:customs:david](https://did-web.web.app/api/v1/identifiers/did:web:did.actor:supply-chain:customs:david)
+[`did:web:did.actor:supply-chain:customs:david`](https://did-web.web.app/api/v1/identifiers/did:web:did.actor:supply-chain:customs:david)
 
 David Long is a US Customs and Border Protection Import Specialist.
 

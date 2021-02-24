@@ -9,3 +9,5 @@
 [yuki](./carrier/yuki) presents the CMTR and BOL to [malcolm](./broker/malcolm).
 
 [malcolm](./broker/malcolm) presents the CMTR and BOL and Commerical Invoice to [david](./customs/david).
+
+[david]('./customs/david) reviews traceability verifiable credentials for US Customs.
