@@ -2,6 +2,12 @@
 
 User Experience and Development Personas for Decentralized Identifiers and Verifiable Credentials.
 
+## Supply Chain Persons
+
+See [supply-chain](./supply-chain)
+
+## Generic
+
 ### [Alice, did:web:did.actor:alice](./alice)
 
 Example of a [revocation list maintained by alice](https://did.actor/alice/credentials/status/3.json)
