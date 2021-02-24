@@ -2,7 +2,7 @@
 
 # Stacy Slater
 
-[did:web:did.actor:supply-chain:manufacturer:stacy](https://did-web.web.app/api/v1/identifiers/did:web:did.actor:supply-chain:manufacturer:stacy)
+[`did:web:did.actor:supply-chain:manufacturer:stacy`](https://did-web.web.app/api/v1/identifiers/did:web:did.actor:supply-chain:manufacturer:stacy)
 
 Stacy is the director of quality at Steel Inc.
 

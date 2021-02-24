@@ -2,7 +2,7 @@
 
 # yuki
 
-[did:web:did.actor:supply-chain:carrier:yuki](https://did-web.web.app/api/v1/identifiers/did:web:did.actor:supply-chain:carrier:yuki)
+[`did:web:did.actor:supply-chain:carrier:yuki`](https://did-web.web.app/api/v1/identifiers/did:web:did.actor:supply-chain:carrier:yuki)
 
 Yuki is responsible for transporting manufactured goods certified by stacy to the united states.
 
