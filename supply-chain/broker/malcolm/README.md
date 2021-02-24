@@ -4,7 +4,9 @@
 
 [did:web:did.actor:supply-chain:broker:malcolm](https://did-web.web.app/api/v1/identifiers/did:web:did.actor:supply-chain:broker:malcolm)
 
-Malcolm is responsible for providing traceability related verifiable credentials associated with entry numbers to ravi at US Customs.
+Malcolm is customs broker.
+
+Malcolm is responsible for providing traceability related verifiable credentials associated with entry numbers to [David Long](../../customs/david/) at US Customs.
 
 - [did](./did.json)
 - [keys](./keys.json)
