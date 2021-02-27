@@ -15,6 +15,6 @@
       "publicKeyBase58": "25TLkGwTeWqQZ1mVpJCzRPFUvvs1y3o9EeDUNE19S65uVkSubBf3cHDxa7wXG5TSnYXHJhmDfmjbsdu1ZnWs3rceY7bGwAeDjdk8XqwoMrff3svgpUzwqHqX53crLQtCQUcS"
     }
   ],
-  "authentication": ["#g1", "g2"],
-  "assertionMethod": ["#g1", "g2"]
+  "authentication": ["#g1", "#g2"],
+  "assertionMethod": ["#g1", "#g2"]
 }
