@@ -1,13 +1,15 @@
 ### Steel Import Scenario
 
-[Stacy Slater](./manufacturer/stacy) certifies the mill test report for Steel Inc's `ASTM A615 Grade 60 Rebar`.
+[Carlos](./manufacturer/carlos) melts, pours and proceses Steel Inc's `ASTM A615 Grade 60 Rebar`.
 
-[Stacy Slater](./manufacturer/stacy) presents the CMTR credential to [yuki](./carrier/yuki).
+[Stacy](./manufacturer/stacy) certifies the mill test report for Steel Inc's `ASTM A615 Grade 60 Rebar`.
 
-[yuki](./carrier/yuki) transports the steel rebar across the pacific ocean.
+[Stacy](./manufacturer/stacy) presents the CMTR credential to [Yuki](./carrier/yuki).
 
-[yuki](./carrier/yuki) presents the CMTR and BOL to [malcolm](./broker/malcolm).
+[Yuki](./carrier/yuki) transports the steel rebar across the pacific ocean.
 
-[malcolm](./broker/malcolm) presents the CMTR and BOL and Commerical Invoice to [david](./customs/david).
+[Yuki](./carrier/yuki) presents the CMTR and BOL to [Malcolm](./broker/malcolm).
 
-[david](./customs/david) reviews traceability verifiable credentials for US Customs.
+[Malcolm](./broker/malcolm) presents the CMTR and BOL and Commerical Invoice to [David](./customs/david).
+
+[David](./customs/david) reviews traceability verifiable credentials for US Customs.

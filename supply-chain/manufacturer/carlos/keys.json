@@ -1,0 +1,16 @@
+{
+  "id": "did:web:did.actor:supply-chain:manufacturer:carlos#primary-signing-key",
+  "type": "JsonWebKey2020",
+  "controller": "did:web:did.actor:supply-chain:manufacturer:carlos",
+  "publicKeyJwk": {
+    "crv": "Ed25519",
+    "x": "pzjzbUzvcsSbHLk3uKjOb9pdN2mwnfeS5dEhQbzpHlQ",
+    "kty": "OKP"
+  },
+  "privateKeyJwk": {
+    "crv": "Ed25519",
+    "d": "K38ZSBEgGGZax6iGtCoOlhMjA0x9Dl_qrKJ1gvrYfbg",
+    "x": "pzjzbUzvcsSbHLk3uKjOb9pdN2mwnfeS5dEhQbzpHlQ",
+    "kty": "OKP"
+  }
+}

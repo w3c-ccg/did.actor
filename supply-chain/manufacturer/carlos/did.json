@@ -1,0 +1,18 @@
+{
+  "@context": ["https://www.w3.org/ns/did/v1"],
+  "id": "did:web:did.actor:supply-chain:manufacturer:carlos",
+  "verificationMethod": [
+    {
+      "id": "#primary-signing-key",
+      "type": "JsonWebKey2020",
+      "controller": "did:web:did.actor:supply-chain:manufacturer:carlos",
+      "publicKeyJwk": {
+        "crv": "Ed25519",
+        "x": "pzjzbUzvcsSbHLk3uKjOb9pdN2mwnfeS5dEhQbzpHlQ",
+        "kty": "OKP"
+      }
+    }
+  ],
+  "authentication": ["#primary-signing-key"],
+  "assertionMethod": ["#primary-signing-key"]
+}
