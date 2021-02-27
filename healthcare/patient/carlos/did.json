@@ -1,0 +1,26 @@
+{
+  "@context": ["https://www.w3.org/ns/did/v1"],
+  "id": "did:web:did.actor:healthcare:doctor:robert",
+  "verificationMethod": [
+    {
+      "id": "did:web:did.actor:healthcare:patient:carlos#g1",
+      "type": "Bls12381G1Key2020",
+      "controller": "did:web:did.actor:healthcare:patient:carlos",
+      "publicKeyBase58": "7GpJ6FTS4jY4Yzw5eTXYUUUXrPS4iD8htxxnKnkZy13EKRj91fEcoNnJfz8JH49SXG"
+    },
+    {
+      "id": "did:web:did.actor:healthcare:patient:carlos#g2",
+      "type": "Bls12381G2Key2020",
+      "controller": "did:web:did.actor:healthcare:patient:carlos",
+      "publicKeyBase58": "xmy6LeoC82Wez68xJwGK3MWHBgwjxZpmizGi2kWmfQELbbHKvns4aVyegec1wsPTJDPyAxWDqZyFsdiZruE4sAzWaWbmxpnK53VKyd8XHAopr9zdJ9NUTbuhfpJPxim4gVE"
+    }
+  ],
+  "authentication": [
+    "did:web:did.actor:healthcare:patient:carlos#g1",
+    "did:web:did.actor:healthcare:patient:carlos#g2"
+  ],
+  "assertionMethod": [
+    "did:web:did.actor:healthcare:patient:carlos#g1",
+    "did:web:did.actor:healthcare:patient:carlos#g2"
+  ]
+}

@@ -2,9 +2,19 @@
 
 User Experience and Development Personas for Decentralized Identifiers and Verifiable Credentials.
 
+🚧 `did:web` assumes that you trust / control the web hosting service.
+
+This assumption might not be great for service provides who cannot be trusted to protect user privacy.
+
+For example: `did:web:hospital.example:patients:123` is a terrible idea... this would allow the hospital to observe when the patient used their identity.
+
 ## Supply Chain Persons
 
 See [supply-chain](./supply-chain)
+
+## Healthcare
+
+See [healthcare](./healthcare)
 
 ## Generic
 

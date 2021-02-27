@@ -1,0 +1,16 @@
+{
+  "g1": {
+    "id": "did:web:did.actor:healthcare:doctor:robert#g1",
+    "type": "Bls12381G1Key2020",
+    "controller": "did:web:did.actor:healthcare:doctor:robert",
+    "publicKeyBase58": "6RC6BhU93EFEbdqBE43KTmeTraiTLw6ukAFJH3sTavrzpKfFAXKxKKud4cy2KeDLpH",
+    "privateKeyBase58": "8o4Mh1A8jpS71qxaeNJcpsBLZKtaPHH5fy1cw6nRHxTs"
+  },
+  "g2": {
+    "id": "did:web:did.actor:healthcare:doctor:robert#g2",
+    "type": "Bls12381G2Key2020",
+    "controller": "did:web:did.actor:healthcare:doctor:robert",
+    "publicKeyBase58": "25TLkGwTeWqQZ1mVpJCzRPFUvvs1y3o9EeDUNE19S65uVkSubBf3cHDxa7wXG5TSnYXHJhmDfmjbsdu1ZnWs3rceY7bGwAeDjdk8XqwoMrff3svgpUzwqHqX53crLQtCQUcS",
+    "privateKeyBase58": "6HWPE85scqkatPw6j8vE43jrSu1nXssYmHHU4s7Pk9x5"
+  }
+}

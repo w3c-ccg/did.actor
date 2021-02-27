@@ -1,0 +1,20 @@
+{
+  "@context": ["https://www.w3.org/ns/did/v1"],
+  "id": "did:web:did.actor:healthcare:doctor:robert",
+  "verificationMethod": [
+    {
+      "id": "#g1",
+      "type": "Bls12381G1Key2020",
+      "controller": "did:web:did.actor:healthcare:doctor:robert",
+      "publicKeyBase58": "6RC6BhU93EFEbdqBE43KTmeTraiTLw6ukAFJH3sTavrzpKfFAXKxKKud4cy2KeDLpH"
+    },
+    {
+      "id": "#g2",
+      "type": "Bls12381G2Key2020",
+      "controller": "did:web:did.actor:healthcare:doctor:robert",
+      "publicKeyBase58": "25TLkGwTeWqQZ1mVpJCzRPFUvvs1y3o9EeDUNE19S65uVkSubBf3cHDxa7wXG5TSnYXHJhmDfmjbsdu1ZnWs3rceY7bGwAeDjdk8XqwoMrff3svgpUzwqHqX53crLQtCQUcS"
+    }
+  ],
+  "authentication": ["#g1", "g2"],
+  "assertionMethod": ["#g1", "g2"]
+}
