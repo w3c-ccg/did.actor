@@ -11,8 +11,20 @@
         "kty": "OKP",
         "x": "5inHTe1J-93c5RxL2EM3FQ1Acvim8prjgj3WR8Svgbg"
       }
+    },
+    {
+      "id": "did:web:did.actor:supply-chain:carrier:yuki#g1",
+      "type": "Bls12381G1Key2020",
+      "controller": "did:web:did.actor:supply-chain:carrier:yuki",
+      "publicKeyBase58": "7o6XNSuThvUZKYhHDJ8hcF4jMvVnCREBUkRAd4MjqMg68PN3LSFhL5qnC8CjpzT28u"
+    },
+    {
+      "id": "did:web:did.actor:supply-chain:carrier:yuki#g2",
+      "type": "Bls12381G2Key2020",
+      "controller": "did:web:did.actor:supply-chain:carrier:yuki",
+      "publicKeyBase58": "216R1DgukZTNHvKgCvB3qsnYKznJuVdYs5F5edNmiT6PxZTc7z5ih4WgeVv7siEWptPRhv4VTXNPm5Qv3r29kzEPySaCuLrgo6JcCbBtoLSzM1qCF5eJTN4E2em7kjRtAXwn"
     }
   ],
-  "authentication": ["#primary-signing-key"],
-  "assertionMethod": ["#primary-signing-key"]
+  "authentication": ["#primary-signing-key", "#g1", "#g1"],
+  "assertionMethod": ["#primary-signing-key", "#g1", "#g1"]
 }
