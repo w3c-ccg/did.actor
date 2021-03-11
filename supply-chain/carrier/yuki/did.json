@@ -25,6 +25,6 @@
       "publicKeyBase58": "216R1DgukZTNHvKgCvB3qsnYKznJuVdYs5F5edNmiT6PxZTc7z5ih4WgeVv7siEWptPRhv4VTXNPm5Qv3r29kzEPySaCuLrgo6JcCbBtoLSzM1qCF5eJTN4E2em7kjRtAXwn"
     }
   ],
-  "authentication": ["#primary-signing-key", "#g1", "#g1"],
-  "assertionMethod": ["#primary-signing-key", "#g1", "#g1"]
+  "authentication": ["#primary-signing-key", "#g1", "#g2"],
+  "assertionMethod": ["#primary-signing-key", "#g1", "#g2"]
 }
