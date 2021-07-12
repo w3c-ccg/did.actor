@@ -24,6 +24,7 @@
   "assertionMethod": ["#z6MkpzW2izkFjNwMBwwvKqmELaQcH8t54QL5xmBdJg9Xh1y4"],
   "service": [{
     "id":"#github",
+    "type": "https://github.com/",
     "serviceEndpoint": "https://raw.githubusercontent.com"
   }]
 }
